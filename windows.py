@@ -10,4 +10,4 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
 # initialize the WindowCapture class
-wincap = WindowCapture('Forager By HopFrog')
+print(WindowCapture('Símbolo del sistema - python  main.py').list_window_names()) 
